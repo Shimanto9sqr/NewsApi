@@ -3,7 +3,7 @@
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/<your-username>/news-api.git
 cd news-api
